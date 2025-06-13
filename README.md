@@ -44,7 +44,7 @@ https://developer.riotgames.com/
 
 
 ### Classes:
-[Helsinki full stack](https://fullstackopen.com/en/)
-[NextJs backend](https://docs.nestjs.com/first-steps)
-[React](https://github.com/flashohq/open-source-react-courses?tab=readme-ov-file)
+[Helsinki full stack](https://fullstackopen.com/en/)\
+[NextJs backend](https://docs.nestjs.com/first-steps)\
+[React](https://github.com/flashohq/open-source-react-courses?tab=readme-ov-file)\
 [CompSci Huge](https://github.com/ossu/computer-science?tab=readme-ov-file)
